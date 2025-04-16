@@ -1,0 +1,6 @@
+name: WindChargeBoatProtector
+version: 1.0
+main: jp.dreamonline.windprotection.WindChargeBoatProtector
+api-version: 1.20
+description: Prevents wind charge from breaking boats
+author: Ryusei Azuma
